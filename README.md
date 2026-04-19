@@ -29,6 +29,6 @@ This repository contains the source for my portfolio, including project examples
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: sloppyuser@gmail.com
 - GitHub: https://github.com/your-username
 - LinkedIn: https://linkedin.com/in/your-username
